@@ -1,0 +1,5 @@
+{
+  "AUTH_TOKEN": "orx_d2464321303546dd520039e91d19c3148154e4d4086dbcee",
+  "BASE_URL": "https://orchids-server.calmstone-6964e08a.westeurope.azurecontainerapps.io/anthropic",
+  "CUSTOM_HEADERS": "x-orchids-api-key: orx_d2464321303546dd520039e91d19c3148154e4d4086dbcee\nx-orchids-source: web\nx-orchids-run-id: claude-1775070692448-hu5lz4\nx-orchids-token-usage-request-id: 8efba398-8e34-4cc6-a6cd-9bd78750f095\nx-orchids-assistant-message-id: 8501ca21-c1d8-4adf-b6ec-96cecbc37702\nx-orchids-proxy-project-id: 98cbdf5f-dde8-42ef-9b24-647182fccce4\nx-orchids-proxy-chat-session-id: 257514"
+}
